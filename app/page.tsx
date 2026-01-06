@@ -53,6 +53,13 @@ const storyData = [
     title: "Eres mi mejor proyecto.",
     text: "Te quiero muchísimo. ¿Vamos a por el siguiente capítulo?",
     position: "middle-center",
+  },
+  {
+    id: 7,
+    image: "/images/gatos.jpeg",
+    title: "Y a ellos también...",
+    text: "Por ser parte de este equipo y llenar la casa de alegría.",
+    position: "bottom-center",
     isFinal: true
   }
 ];
